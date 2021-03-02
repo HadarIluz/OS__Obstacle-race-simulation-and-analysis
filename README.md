@@ -1,8 +1,10 @@
 # Operating-Systems
 
-Obstacle race - simulation and analysis
+(☞ﾟヮﾟ)☞  💥 Obstacle race - simulation and analysis 💥   ☜(ﾟヮﾟ☜)
 
 The program simulates launching trainees on an obstacle course and measuring trainee times on each obstacle. The trainees perform all types of obstacles in the maximum possible parallelism, each trainee is a thread. If there is no free obstacle the thread enters the waiting list until another trainee completes a course and then he will try his luck to catch an obstacle he has not yet performed to complete the course !.
+
+※※※※※※※※※※※※※※※※※※※※
 
 Linux- C - Multithreading
 
