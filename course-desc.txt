@@ -1,0 +1,6 @@
+5
+wall	2	100
+rope	4	200
+crawl	5	250
+balance	3	150
+bridge	2	100
